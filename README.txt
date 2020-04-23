@@ -1,1 +1,0 @@
-Hey! Generic readme file here. As the description and title suggests, this repo is purely for submissions for the FStack Course.
